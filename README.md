@@ -1,1 +1,3 @@
 # NYC-TAXI-TRIP-TIME-PREDICTION
+![lexi-anderson-G8wPrJyNqWQ-unsplash](https://github.com/AkshayAI007/NYC-TAXI-TRIP-TIME-PREDICTION/assets/110448324/7669b096-0a69-46b2-a06f-d20193c438b9)
+

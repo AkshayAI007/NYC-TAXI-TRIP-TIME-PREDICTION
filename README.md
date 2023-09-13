@@ -55,7 +55,9 @@ Future enhancements for the model may involve integrating additional data source
 # Hypothesis Testing :
 
 Hypothesis 1: Weekends has more traffic as compared to week days.
+
 Hypothesis 2: Traffic hours on weekdays are different than traffic hours on weekends.
+
 Hypothesis 3: Passengers which are travelling at a time is changing with change in vendor.
 # Feature Engineering
 Handling Missing values

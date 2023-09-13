@@ -23,13 +23,13 @@ In summary, the NYC Taxi Trip Duration project effectively develops a machine le
 Future enhancements for the model may involve integrating additional data sources, such as weather and traffic data, to account for external factors affecting trip durations. Furthermore, integrating real-time mapping and routing services could enable the provision of up-to-the-minute trip duration estimates based on current traffic conditions.
 
 # Project workflow :
-* Contents
-# 1. Problem Statement
-# 2. Data Exploration
+
+#  Problem Statement
+#  Data Exploration
 * Libraries
 * Import Dataset
 * Explore Data
-# 3.Exploratory Data Analysis
+# Exploratory Data Analysis
 # Univariate Analysis
  1. Id
  2. Vendor Id

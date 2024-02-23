@@ -83,8 +83,9 @@ Decision Tree Regression
 Random Forest Regression
 Light Gradient Boost Machine
 XGBoost Regression
-# Performance Evaluation 
-![Screenshot 2023-09-13 134019](https://github.com/AkshayAI007/NYC-TAXI-TRIP-TIME-PREDICTION/assets/110448324/6c584194-701f-4e9f-ae1d-89af5431d150)
+
+![image](https://github.com/AkshayAI007/NYC-TAXI-TRIP-TIME-PREDICTION/assets/110448324/cdf3233a-8b69-4d28-9241-d46b5ce49ddd)
+
 # Conclusion :
 
 # Conclusion from EDA:
